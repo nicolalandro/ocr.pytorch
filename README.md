@@ -1,4 +1,7 @@
-## ocr.pytorch
+[![License: MIT](https://img.shields.io/badge/license-MIT-lightgray)](LICENSE) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicolalandro/ocr.pytorch/blob/master/OCR_py.ipynb)
+
+# ocr.pytorch
 > A pure pytorch implemented ocr project.    
 Text detection is based CTPN and text recognition is based CRNN.  
 More detection and recognition methods will be supported!
